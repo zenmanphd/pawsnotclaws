@@ -7,9 +7,13 @@ h1 {
     background-color: rgba(71, 61, 139, 0.571);
 }
 body {
-    background-image: url("paws2.jpg");
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    text-align: center;
+    background-color:rgb(113, 144, 144);
 } 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(113, 144, 144);
+    border-radius: 8px;
+}
 
