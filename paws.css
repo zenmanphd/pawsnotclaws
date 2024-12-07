@@ -7,4 +7,20 @@ h1 {
 }
 body {
     background-image: url("paws2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    animation: transitionIn 850ms;
 }
+@keyframes transitionIn {
+    from {
+        opacity: 0;
+        transform: rotateX(-10deg);
+    }
+    to {
+        opacity: 1;
+        transform: rotateX(0);
+    }
+
+} 
+
