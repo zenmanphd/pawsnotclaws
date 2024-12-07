@@ -1,6 +1,7 @@
 h1 {
     color: azure;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
 }
 #banner {
     background-color: rgba(71, 61, 139, 0.571);
@@ -10,17 +11,5 @@ body {
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
-    animation: transitionIn 850ms;
-}
-@keyframes transitionIn {
-    from {
-        opacity: 0;
-        transform: rotateX(-10deg);
-    }
-    to {
-        opacity: 1;
-        transform: rotateX(0);
-    }
-
 } 
 
