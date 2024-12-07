@@ -16,4 +16,8 @@ img {
     border: 1px solid rgb(113, 144, 144);
     border-radius: 8px;
 }
+figcaption {
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
