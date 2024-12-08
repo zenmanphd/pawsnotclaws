@@ -2,6 +2,7 @@ h1 {
     color: azure;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 45px;
+    margin: auto;
 }
 #banner {
     background-color: rgba(71, 61, 139, 0.445);
