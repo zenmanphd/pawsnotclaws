@@ -9,15 +9,13 @@ h1 {
 body {
     background-color:rgb(113, 144, 144);
 } 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid rgb(113, 144, 144);
-    border-radius: 8px;
-}
 figcaption {
     color: azure;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
+figure {
+    border: 1px solid rgb(113, 144, 144);
+    border-radius: 8px;
+    padding: 4px;
+    margin: auto;
+}
