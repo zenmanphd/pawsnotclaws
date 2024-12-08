@@ -17,8 +17,8 @@ figcaption {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 div {
-    max-width: 750px;
-    border: 1px solid rgb(113, 144, 144);
+    width: 500px;
+    border: 1px solid rgba(71,61, 139, 0.445);
     border-radius: 8px;
     padding: 4px;
     margin: auto;
