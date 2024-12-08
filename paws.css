@@ -10,7 +10,10 @@ body {
     background-color:rgb(113, 144, 144);
 } 
 figcaption {
+    background-color: black;
     color: azure;
+    padding: 2px;
+    text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 figure {
