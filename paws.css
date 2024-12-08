@@ -10,7 +10,7 @@ body {
     background-color:rgb(113, 144, 144);
 } 
 figcaption {
-    background-color: black;
+    background-color: rgba(71, 61, 139, 0.571);
     color: azure;
     padding: 2px;
     text-align: center;
