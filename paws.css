@@ -12,11 +12,12 @@ body {
 figcaption {
     background-color: rgba(71, 61, 139, 0.571);
     color: azure;
-    padding: 2px;
+    padding: 4px;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-figure {
+div {
+    max-width: 750px;
     border: 1px solid rgb(113, 144, 144);
     border-radius: 8px;
     padding: 4px;
